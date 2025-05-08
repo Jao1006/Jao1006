@@ -3,9 +3,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Greetings.;I'm+Jo%C3%A3o+Alberto+(18+y.o)" alt="Typing SVG" /></a>
   
 <pre>
-    🔹 System Development Student, passionate about coding and problem-solving.
-    🎮 Game Developer, bringing ideas to life through interactive experiences.
-    🎵 Musician, blending melodies with creativity in digital soundscapes.
+    🔹 System Development Student.
+    🎮 Game Developer.
+    🎵 Experimental musician.
 </pre>  
 :page_with_curl: **I'm currently using:**  
 ![GML](https://img.shields.io/badge/GML-%23FF0000.svg?style=for-the-badge&logo=gamemaker&logoColor=white)  

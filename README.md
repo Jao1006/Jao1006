@@ -8,12 +8,12 @@
     🎵 Experimental musician.
 </pre>  
 :page_with_curl: **I'm currently using:**  
-![GDScript](https://img.shields.io/badge/GDScript-%235C6BC0.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
 :chart_with_upwards_trend: **I'm currently learning:**  
+![GDScript](https://img.shields.io/badge/GDScript-%235C6BC0.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 
 ---
